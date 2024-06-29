@@ -10,7 +10,7 @@
     "stylelint.enable": true,
     "css.validate": false,
     "scss.validate": false,
-    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.tsdk": "node_modules/typescript/lib",
     "typescript.enablePromptUseWorkspaceTsdk": true,
     "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
     "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
